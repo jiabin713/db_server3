@@ -1,0 +1,146 @@
+{
+  "organizations": {
+    "success": true,
+    "data": [
+      {
+        "id": "438392557030870406",
+        "name": "斐波科技有限公司",
+        "code": "Fiber Tech Company",
+        "parent_id": "1",
+        "parent_ids": "1",
+        "status": "enable",
+        "sort": 1000,
+        "updated_at": 1653307742,
+        "updated_by": 1,
+        "children": [
+          {
+            "id": "438393278233054598",
+            "name": "财务部",
+            "code": "FT Finance Department",
+            "parent_id": "438392557030870406",
+            "parent_ids": "1,438392557030870406",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波科技-财务部",
+            "updated_at": 1651665999,
+            "updated_by": 1
+          },
+          {
+            "id": "438393558714551686",
+            "name": "研发部",
+            "code": "FT R\u0026D Department",
+            "parent_id": "438392557030870406",
+            "parent_ids": "1,438392557030870406",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波科技-研发部",
+            "updated_at": 1651670233,
+            "updated_by": 1,
+            "children": [
+              {
+                "id": "438397440056364422",
+                "name": "PC端开发",
+                "code": "FT R\u0026D PC Develop",
+                "parent_id": "438393558714551686",
+                "parent_ids": "1,438392557030870406,438393558714551686",
+                "status": "enable",
+                "sort": 1000,
+                "remark": "斐波科技-研发-PC开发",
+                "updated_at": 1651670164,
+                "updated_by": 1
+              }
+            ]
+          },
+          {
+            "id": "438393707662675334",
+            "name": "人事部",
+            "code": "FT Personnel Department",
+            "parent_id": "438392557030870406",
+            "parent_ids": "1,438392557030870406",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波科技-人事部",
+            "updated_at": 1651666006,
+            "updated_by": 1
+          },
+          {
+            "id": "438393781448871302",
+            "name": "市场部",
+            "code": "FT Marketing Department",
+            "parent_id": "438392557030870406",
+            "parent_ids": "1,438392557030870406",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波科技-市场部",
+            "updated_at": 1651666009,
+            "updated_by": 1
+          },
+          {
+            "id": "438393883655671174",
+            "name": "销售部",
+            "code": "FT Sales Department",
+            "parent_id": "438392557030870406",
+            "parent_ids": "1,438392557030870406",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波科技-销售部",
+            "updated_at": 1651666010,
+            "updated_by": 1
+          }
+        ]
+      },
+      {
+        "id": "438393032262290822",
+        "name": "斐波投资有限公司",
+        "code": "Fiber Investment Company",
+        "parent_id": "1",
+        "parent_ids": "1",
+        "status": "enable",
+        "sort": 1000,
+        "updated_at": 1651666012,
+        "updated_by": 1,
+        "children": [
+          {
+            "id": "438394535349849478",
+            "name": "风控部",
+            "code": "FI Risk Control Department",
+            "parent_id": "438393032262290822",
+            "parent_ids": "1,438393032262290822",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波投资-风控部",
+            "updated_at": 1651666043,
+            "updated_by": 1
+          }
+        ]
+      },
+      {
+        "id": "438393122506935686",
+        "name": "斐波实业有限公司",
+        "code": "Fiber Industrial Company",
+        "parent_id": "1",
+        "parent_ids": "1",
+        "status": "enable",
+        "sort": 1000,
+        "updated_at": 1651666014,
+        "updated_by": 1,
+        "children": [
+          {
+            "id": "438396891508510086",
+            "name": "工程部",
+            "code": "FI Engineering Department",
+            "parent_id": "438393122506935686",
+            "parent_ids": "1,438393122506935686",
+            "status": "enable",
+            "sort": 1000,
+            "remark": "斐波实业-工程部",
+            "updated_at": 1651666047,
+            "updated_by": 1
+          }
+        ]
+      }
+    ],
+    "errorCode": 0,
+    "errorMessage": "OK"
+  }
+}
